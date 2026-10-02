@@ -1,0 +1,9 @@
+{
+  "main_business": "wholesale",
+  "default_min_order": 6,
+  "allow_small_orders": true,
+  "small_order_quantities": [1, 3],
+  "small_order_note": "برخی محصولات امکان سفارش 1 یا 3 عددی دارند",
+  "never_invent_price": true,
+  "never_invent_inventory": true
+}
